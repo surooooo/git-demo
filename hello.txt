@@ -1,5 +1,5 @@
 hello,can you speak English
-hello git,here is hot version
+hello git,here is another hot version
 hello git
 hello git
 hello git
