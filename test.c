@@ -1,7 +1,12 @@
 #include <stdio.h>
 
 int main(){
-	printf("testing...\n");
+printf("abc\n");
+printf("abc\n");
+printf("abc\n");
+printf("abc\n");
+printf("abc\n");
+printf("abc\n");
 	return 0;
 
 }
